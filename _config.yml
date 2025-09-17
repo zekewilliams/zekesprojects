@@ -27,7 +27,7 @@ url: "https://www.zekesprojects.com" # the base hostname & protocol for your sit
 
 
 # Build settings
-remote_theme: "jekyll/minima@1e8a445"
+theme: jekyll-theme-minimal
 plugins:
 
 # Exclude from processing.
