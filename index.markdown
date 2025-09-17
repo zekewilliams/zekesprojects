@@ -1,10 +1,6 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-
- Lauren Fleniken
-
- *It Wasn't God Who Made Honky Tonk Angels*
-
-![Lauren Image](/images/lauren/LaurenFleniken_Forshehaslovedsomuch.jpg)
-
-Opens Sat Sept 6 2025 from 6-8pm.
-Closes Sat Oct 18 
+layout: home
+---

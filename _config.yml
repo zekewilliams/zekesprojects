@@ -22,13 +22,16 @@ title: Zeke's Projects
 email: zekesprojects@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Zeke's Projects is a contemporary art gallery in Dallas TX.
-baseurl: "/zekesprojects" # the subpath of your site, e.g. /blog
-url: "https://www.zekesprojects.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://zekesprojects.com" # the base hostname & protocol for your site, e.g. http://example.com
 
+twitter_username: 
+github_username:  
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
