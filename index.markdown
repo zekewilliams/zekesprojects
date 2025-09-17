@@ -1,4 +1,4 @@
-# Current Exhibition
+
 
  Lauren Fleniken
 
