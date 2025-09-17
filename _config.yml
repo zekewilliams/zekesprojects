@@ -22,8 +22,8 @@ title: Zeke's Projects
 email: zekesprojects@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Zeke's Projects is a contemporary art gallery in Dallas TX.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.zekesprojects.com/zekesprojects/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/zekesprojects" # the subpath of your site, e.g. /blog
+url: "https://www.zekesprojects.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
