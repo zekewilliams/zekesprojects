@@ -27,7 +27,7 @@ url: "https://www.zekesprojects.com/zekesprojects/" # the base hostname & protoc
 
 
 # Build settings
-theme: minima
+theme: "jekyll/minima"
 plugins:
 
 # Exclude from processing.
